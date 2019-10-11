@@ -1,2 +1,1 @@
-# VIPLab-Website
-Visual Information Processing Laboratory website
+# VIP_Web
