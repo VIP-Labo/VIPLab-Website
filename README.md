@@ -18,6 +18,7 @@ Git
 https://git-for-windows.github.io/
 GitHubDesktop
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+https://desktop.github.com/
 
 Gitのインストール方法は以下のサイトを参考にしてください。
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓
