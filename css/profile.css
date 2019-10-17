@@ -54,7 +54,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
   }
   /*----------------Bachelor---------------------*/
-  .bachelor1-image {
+  .bachelor4_1-image {
       background-image: url("../image/profile_img/AndoNana.jpg");  /* 表示する画像 */
       width:  150px;       /* ※縦横を同値に */
       height: 150px;       /* ※縦横を同値に */
@@ -62,7 +62,7 @@ member.html 丸いプロフィール画像
       background-position: center;  /* 横長画像の左上を基準に表示 */
       display: inline-block;          /* 複数の画像を横に並べたい場合 */
     }
-    .bachelor2-image {
+    .bachelor4_2-image {
 
       background-image: url("../image/profile_img/Jyunya.jpg");  /* 表示する画像 */
 
@@ -72,7 +72,7 @@ member.html 丸いプロフィール画像
       background-position: center;  /* 横長画像の左上を基準に表示 */
       display: inline-block;          /* 複数の画像を横に並べたい場合 */
     }
-    .bachelor3-image {
+    .bachelor4_3-image {
       background-image: url("../image/profile_img/ono.jpg");  /* 表示する画像 */
       width:  150px;       /* ※縦横を同値に */
       height: 150px;       /* ※縦横を同値に */
@@ -80,7 +80,7 @@ member.html 丸いプロフィール画像
       background-position: center;  /* 横長画像の左上を基準に表示 */
       display: inline-block;          /* 複数の画像を横に並べたい場合 */
     }
-    .bachelor4-image {
+    .bachelor4_4-image {
         background-image: url("../image/profile_img/runa.jpg");  /* 表示する画像 */
         width:  150px;       /* ※縦横を同値に */
         height: 150px;       /* ※縦横を同値に */
@@ -88,7 +88,7 @@ member.html 丸いプロフィール画像
         background-position: center;  /* 横長画像の左上を基準に表示 */
         display: inline-block;          /* 複数の画像を横に並べたい場合 */
       }
-    .bachelor5-image {
+    .bachelor4_5-image {
           background-image: url("../image/profile_img/NakamuraTaisei.jpg");  /* 表示する画像 */
           width:  150px;       /* ※縦横を同値に */
           height: 150px;       /* ※縦横を同値に */
@@ -96,7 +96,7 @@ member.html 丸いプロフィール画像
           background-position: center;  /* 横長画像の左上を基準に表示 */
           display: inline-block;          /* 複数の画像を横に並べたい場合 */
         }
-    .bachelor6-image {
+    .bachelor4_6-image {
           background-image: url("../image/profile_img/fukuda.jpg");  /* 表示する画像 */
           width:  150px;       /* ※縦横を同値に */
           height: 150px;       /* ※縦横を同値に */
@@ -104,7 +104,7 @@ member.html 丸いプロフィール画像
           background-position: center;  /* 横長画像の左上を基準に表示 */
           display: inline-block;          /* 複数の画像を横に並べたい場合 */
         }
-    .bachelor7-image {
+    .bachelor4_7-image {
           background-image: url("../image/profile_img/MiyajimaMasaki.png");  /* 表示する画像 */
           width:  150px;       /* ※縦横を同値に */
           height: 150px;       /* ※縦横を同値に */
@@ -112,7 +112,7 @@ member.html 丸いプロフィール画像
           background-position: center;  /* 横長画像の左上を基準に表示 */
           display: inline-block;          /* 複数の画像を横に並べたい場合 */
         }
-    .bachelor8-image {
+    .bachelor4_8-image {
           background-image: url("../image/profile_img/yuka.jpg");  /* 表示する画像 */
           width:  150px;       /* ※縦横を同値に */
           height: 150px;       /* ※縦横を同値に */
@@ -120,7 +120,7 @@ member.html 丸いプロフィール画像
           background-position: center;  /* 横長画像の左上を基準に表示 */
           display: inline-block;          /* 複数の画像を横に並べたい場合 */
         }
-    .bachelor9-image {
+    .bachelor4_9-image {
             background-image: url("../image/profile_img/shi.jpg");  /* 表示する画像 */
             width:  150px;       /* ※縦横を同値に */
             height: 150px;       /* ※縦横を同値に */
@@ -128,4 +128,104 @@ member.html 丸いプロフィール画像
             background-position: center;  /* 横長画像の左上を基準に表示 */
             display: inline-block;          /* 複数の画像を横に並べたい場合 */
     }
+
+     .bachelor3_1-image {
+       background-image: url("../image/profile_img/Abe.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+    }
+      .bachelor3_2-image {
+        background-image: url("../image/profile_img/Iwasaki.jpg");  /* 表示する画像 */
+        width:  150px;       /* ※縦横を同値に */
+        height: 150px;       /* ※縦横を同値に */
+        border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+        background-position: center;  /* 横長画像の左上を基準に表示 */
+        display: inline-block;          /* 複数の画像を横に並べたい場合 */
+      }
+      .bachelor3_3-image {
+        background-image: url("../image/profile_img/Okamoto.jpg");  /* 表示する画像 */
+        width:  150px;       /* ※縦横を同値に */
+        height: 150px;       /* ※縦横を同値に */
+        border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+        background-position: center;  /* 横長画像の左上を基準に表示 */
+        display: inline-block;          /* 複数の画像を横に並べたい場合 */
+      }
+    .bachelor3_4-image {
+      background-image: url("../image/profile_img/Odaka.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+     }
+    .bachelor3_5-image {
+       background-image: url("../image/profile_img/Kawasaki.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+        }
+    .bachelor3_6-image {
+       background-image: url("../image/profile_img/Nakatsuka.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+        }
+    .bachelor3_7-image {
+       background-image: url("../image/profile_img/Niida.png");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+        }
+    .bachelor3_8-image {
+       background-image: url("../image/profile_img/Hayashi.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+        }
+    .bachelor3_9-image {
+       background-image: url("../image/profile_img/Ma.jpg");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+    }
+    .bachelor3_10-image {
+       background-image: url("../image/profile_img/Miki.png");  /* 表示する画像 */
+       width:  150px;       /* ※縦横を同値に */
+       height: 150px;       /* ※縦横を同値に */
+       border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+       background-position: center;  /* 横長画像の左上を基準に表示 */
+       display: inline-block;          /* 複数の画像を横に並べたい場合 */
+    }
+  .bachelor3_11-image {
+        background-image: url("../image/profile_img/Yoshioka.jpg");  /* 表示する画像 */
+        width:  150px;       /* ※縦横を同値に */
+        height: 150px;       /* ※縦横を同値に */
+        border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+        background-position: center;  /* 横長画像の左上を基準に表示 */
+        display: inline-block;          /* 複数の画像を横に並べたい場合 */
+      }
+  .bachelor3_12-image {
+        background-image: url("../image/profile_img/Yo.jpg");  /* 表示する画像 */
+        width:  150px;       /* ※縦横を同値に */
+        height: 150px;       /* ※縦横を同値に */
+        border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+        background-position: center;  /* 横長画像の左上を基準に表示 */
+        display: inline-block;          /* 複数の画像を横に並べたい場合 */
+  }
+
+
+
 /*-----------------------------------------*/
