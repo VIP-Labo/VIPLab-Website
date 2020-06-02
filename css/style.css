@@ -1,0 +1,156 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+  top: 7px;
+}
+p {
+  line-height: 2rem;
+}
+
+
+
+.box_simple {
+    color: #1c1d1f;
+    font-size: 14px;
+    border-top: solid #f37a2acc 1px; /*＊上のボーダー*/
+    border-bottom: solid #f37a2acc 1px; /*＊下のボーダー*/
+    padding: 1.5em 0em 1.5em 1.5em;
+    line-height: 2.5; /*行間*/
+}
+    .box_simple li:before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f02b"; /*アイコン種類*/
+        position: absolute;
+        margin-left: -1.5em; /*アイコン左へ*/
+        color: #ffb03f; /*アイコン色*/
+        font-weight: 1000;
+    }
+.box_simple li {
+    margin-left: 2.5em;
+    line-height: 2.5; /*行間*/
+}
+
+.box_blue {
+    background: #f1f8ff; /*背景色*/
+    color: #1e366a;
+    border-top: solid #1e366a 1px; /*上のボーダー*/
+    border-bottom: solid #1e366a 1px; /*下のボーダー*/
+    padding: 1em 0.5em 1.5em; /*左から順に、上にpadding、右左に共通のpadding、下にpadding*/
+}
+    .box_blue li:before {
+        font-family: "Font Awesome 5 Free";
+        content: "\f0da"; /*アイコン種類*/
+        position: absolute;
+        margin-left: -1.5em; /*アイコン左へ*/
+        color: #1e366a; /*アイコン色*/
+        font-weight: 900
+    }
+    .box_blue li {
+        margin-left: 2.5em;
+        line-height: 2.5; /*行間*/
+    }
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+
+
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+/*nav fix*/
+.fixed{
+ position: fixed;
+ z-index: 10000;
+}
+
+/*マウスホバーのポインター変更*/
+.mouse-hover{
+  cursor:pointer;
+}
+
+/* パソコンで見たときは"pc"のclassがついた画像が表示される */
+.pc { display: block !important; }
+.sp { display: none !important; }
+.scroll-btn { display: none !important; }
+.slide-height {
+   height:569px; 
+}
+/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
+@media only screen and (max-width: 600px) {
+  .pc { display: none !important; }
+  .sp { display: block !important; }
+  .scroll-btn { display: block !important; }
+  .slide-height {
+     height:350px; 
+  }
+  .contact-form {
+    text-align: center;
+  }
+}
+
+/*スライダーの文字位置を中央にする（なぜか50%だと中央にならない）*/
+.slider .slides li .caption {
+  top: 30% !important;
+}
+
+.teal {
+ background-color: #f37a2acc !important;
+}
+
+.btn, .btn-large, .btn-small, .btn-flat {
+ color:#ffffff !important;
+ background-color: #f37a2acc !important;
+}
+
+.btn:focus, .btn-large:focus, .btn-small:focus, .btn-floating:focus {
+ background-color: #ee660bda !important;
+}
+
+.btn:hover, .btn-large:hover, .btn-small:hover {
+  background-color: #ee660bda !important;
+}
+
+
+
+

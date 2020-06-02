@@ -1,0 +1,31 @@
+﻿/*--news.css
+news.html のデザイン用
+--*/
+
+/*--枠内のデザイン
+--*/
+ul li {
+  line-height: 1.3;/*行間*/
+  padding: 0.5em 0 0.5em 1.4em;
+  border-bottom: dashed 1px silver;
+  list-style-type: none!important;
+  font-size: 85%;/*フォントサイズ*/
+}
+
+ul li:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f075";/*アイコン種類*/
+  position: absolute;
+  left : 1.5em; /*左端からのアイコンまで*/
+  color: #ffb03f; /*アイコン色*/
+  font-weight: 1000;
+}
+
+ul li:last-of-type {
+  border-bottom: none;
+}
+/*スクロールバー　非表示*/
+::-webkit-scrollbar {
+    display: none;
+    -webkit-appearance: none;
+}
