@@ -13,8 +13,8 @@ ul {
   display: inline-block;
   *display: inline;  
   *zoom: 1;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 
