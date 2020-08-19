@@ -1,4 +1,4 @@
-# VIP_Web
+# [VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web")
 
 VIP Webサイト管理マニュアル
 【前準備】
