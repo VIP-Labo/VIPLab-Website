@@ -13,7 +13,7 @@ VIP Webサイト管理マニュアル
 * ウェブの管理の際にGitを使用しています．<br>
 このサイトから研究室のPCまたは個人のPCにダウンロードして下さい : [Get git](https://git-for-windows.github.io/ "Trello")
 
-* Gitのインストール方法はこちらのサイトを参考にしてください。
+* Gitのインストール方法はこちらのサイトを参考にしてください．
     * https://eng-entrance.com/git-install
 ## 3. コード編集に用いるエディタ
 * 皆さんに合うエディターを個々で見つけて使って下さい．
