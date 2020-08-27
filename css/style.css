@@ -151,6 +151,13 @@ footer.page-footer {
   background-color: #ee660bda !important;
 }
 
+span.char-color-black{
+  color: black;
+}
 
+table.half-clear{
+  background-color: rgba(255,255,255,0.4);
+  color: black;
+}
 
 
