@@ -77,33 +77,6 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 
-/*
-.master1-image {
-    background-image: url("../image/profile_img/liuqianyuan.jpg");
-    width:  150px;
-    height: 150px; 
-    border-radius: 50%; 
-    background-position: center;
-    display: inline-block; 
-}
-.master2-image {
-    background-image: url("../image/profile_img/misaki_kodaira.jpg");
-    width:  150px; 
-    height: 150px;  
-    border-radius: 50%; 
-    background-position: center; 
-    display: inline-block; 
-}
-.master3-image {
-    background-image: url("../image/profile_img/XUYihao.jpg"); 
-    width:  150px;
-    height: 150px; 
-    border-radius: 50%;
-    background-position: center; 
-    display: inline-block;  
-}
-*/
-
 /*----------------Bachelor---------------------*/
 
 .bachelor10-image {
