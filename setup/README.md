@@ -38,6 +38,8 @@ Webサイト：[VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web") 
 
 * Webページにぶち込んだ[uchida](https://github.com/junprog)自身も深い理解はしてないので、いじる際はご注意ください。。。
 
+### 1.6 概略図
+![all](img/const.svg) 
 <br>
 
 ## 2. 開発のための環境構築
