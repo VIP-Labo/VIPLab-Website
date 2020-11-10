@@ -91,9 +91,11 @@ $ ls -al ~/.ssh
 
 * SSH and GPG Keys を選択し、New SSH key を選択
 
-![ssh](img/ssh1.jpg) 
+![ssh1](img/ssh1.jpg) 
 
 * Titleは適当にMy note PCとか分かりやすい名前で設定、Key部分に公開鍵の中身をコピペ
+
+![ssh2](img/ssh2.png) 
 
 公開鍵の中身は以下のコマンドで出力して、手動でコピペでOKです。
 ```bash
