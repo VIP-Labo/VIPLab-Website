@@ -31,6 +31,15 @@ Webサイト：[VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web") 
 
 * Cent OS 8.2 で動いてます。そしてWebサーバーが反映されているファイルがあるディレクトリは `/var/www/html/vip_web` となっています。
 
+### 1.5 VIP Cloud (owncloud)
+* [VIP Cloud](http://www.vip.is.ritsumei.ac.jp/owncloud/index.php/login) こちらはOSSのサービスである[owncloud](https://owncloud.com/)をオンプレミスで利用させて頂いてます。
+
+* 具体的には apache + php-fpm + mariaDB + owncloud という構成で稼働しています。
+
+* Webページにぶち込んだ[uchida](https://github.com/junprog)自身も深い理解はしてないので、いじる際はご注意ください。。。
+
+### 1.6 概略図
+![all](img/const.svg) 
 <br>
 
 ## 2. 開発のための環境構築
