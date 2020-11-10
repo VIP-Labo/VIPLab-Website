@@ -36,7 +36,6 @@ Webサイト：[VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web") 
 
 開発する際はエディタとして[Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")を強くおすすめしています。
 
-<br>
 
 ### 2.1 gitをPCに導入しよう
 
@@ -53,13 +52,9 @@ Webサイト：[VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web") 
 * アカウントを作成しましたら、アカウント名を研Slackの #ホームページ管理係 や僕の個人DMに教えてください。
 
 * そうしたら、[VIPLab-Website リポジトリ](https://github.com/VIP-Labo/VIPLab-Website) に招待しますので、GitHubに関連付けてあるメールアドレスに届く招待メールで承認してください。
-<br>
-<br>
 
 ### 2.3 GitHubにssh keyを登録しよう
 こちらの[参考サイト](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)をもとに、ssh keyを生成して自分のGitHubアカウントにssh接続できるようにしていきます。
-<br>
-<br>
 
 #### 2.3.1 クライアント(各ノートPC等)で公開鍵、秘密鍵を作成（作ってある人はとばしてください）
 
@@ -85,7 +80,6 @@ $ ls -al ~/.ssh
 > cd ~
 > dir .ssh
 ```
-<br>
 
 #### 2.3.2 作成した公開鍵をGitHubのSSH keyに登録
 
@@ -105,10 +99,8 @@ $ cat .ssh/id_rsa.pub
 ```
 
 * あとはAdd SSH keyで登録完了です。
-<br>
-<br>
 
-#### 2.3.3 エイリアス設定
+#### 2.3.3 エイリアス設定 (しなくていいかも)
 
 ~/.ssh/configを作成および設定することで git@github.com の部分を省略して任意の名前に変更 (以下の例は"github"に設定。これは鍵認証と直接関係ないが、やっておくと便利。)
 
@@ -127,7 +119,6 @@ $ chmod 600 ~/.ssh/config
 # Win
 すみませんわかりません。僕は git bash で上記のchmodを実行しました。
 ```
-<br>
 
 #### 2.3.4 鍵認証方式で試しに接続
 ```bash
@@ -139,7 +130,6 @@ Connection to github.com closed.
 
 ## 成功！！ ##
 ```
-<br>
 
 ### 2.4 GitHub上のWebサイトのリポジトリをクローンしよう
 
@@ -163,4 +153,4 @@ Resolving deltas: 100% (96/96), done.
 
 それと、上記の導入がわけわからんくても大丈夫です！その時はむやみに何もせず、zoomするときに一緒にやっていきましょう。
 
-作成 : uchida
+作成 : [uchida](https://github.com/junprog)
