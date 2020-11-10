@@ -2,6 +2,7 @@
 ===
 Webサイト：[VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web") の構成と開発のための環境構築を説明します！
 少しとっかかりにくいかもしれませんが、頑張ってください m(_ _)m
+<br>
 
 ## 1. 構成
 
