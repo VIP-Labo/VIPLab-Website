@@ -1,4 +1,4 @@
-# [VIP_Web](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web")
+# [VIP Webページ](http://www.vip.is.ritsumei.ac.jp/index.html "VIP_web")
 
 VIP Webサイト管理マニュアル
 【前準備】
@@ -9,7 +9,7 @@ VIP Webサイト管理マニュアル
     * https://seleck.cc/610
     * https://www.consultsourcing.jp/7403
 
-## 2. GitHub (コード管理)
+## 2. git (コード管理)
 * ウェブの管理の際にGitを使用しています．<br>
 このサイトから研究室のPCまたは個人のPCにダウンロードして下さい : [Get git](https://git-for-windows.github.io/ "Trello")
 
