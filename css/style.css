@@ -160,4 +160,8 @@ table.half-clear{
   color: black;
 }
 
+span.box_white{
+  background-color: rgba(0, 0, 0, 0.15);
+  color: white;
+}
 
