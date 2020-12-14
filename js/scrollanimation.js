@@ -43,3 +43,18 @@ document.addEventListener('DOMContentLoaded', function(){
     }
   })
 });
+
+document.addEventListener('DOMContentLoaded', function(){
+  $(window).on({
+    "scroll":function(e){
+      var startY= document.querySelector(".css-fade6").getBoundingClientRect().top, //表示させたい対象
+          windowHeight = window.innerHeight, // ブラウザの高さ
+          offset = windowHeight; //オフセット 画面の2/3
+      // 表示
+      if(startY<offset){
+        document.querySelector(".css-fade6").classList.add('css-fade6--in');
+      // ブラウザの外になったら消す
+      }
+    }
+  })
+});
