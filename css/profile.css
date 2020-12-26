@@ -3,7 +3,7 @@ member.html 丸いプロフィール画像
 --*/
 /*-------------------Doctor---------------------*/
 .doctor1-image {
-  background-image: url("../image/profile_img/Zhao.jpg");  /* 表示する画像 */
+  background-image: url("../image/profile_img/2018/Zhao.jpg");  /* 表示する画像 */
   width:  150px;       /* ※縦横を同値に */
   height: 150px;       /* ※縦横を同値に */
   border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -11,7 +11,7 @@ member.html 丸いプロフィール画像
   display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .doctor2-image {
-    background-image: url("../image/profile_img/Liu_DC.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/Liu_DC.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -19,7 +19,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .doctor3-image {
-    background-image: url("../image/profile_img/ji _ing.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/ji _ing.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -29,7 +29,7 @@ member.html 丸いプロフィール画像
 /*----------------Master---------------------*/
 
 .master1-image {
-    background-image: url("../image/profile_img/Jyunya.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/Jyunya.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -37,7 +37,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .master2-image {
-    background-image: url("../image/profile_img/runa.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/runa.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -45,7 +45,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .master3-image {
-    background-image: url("../image/profile_img/NakamuraTaisei.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/NakamuraTaisei.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -53,7 +53,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .master4-image {
-    background-image: url("../image/profile_img/fukuda.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/fukuda.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -61,7 +61,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .master5-image {
-    background-image: url("../image/profile_img/shi.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2018/shi.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -69,7 +69,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .master6-image {
-    background-image: url("../image/profile_img/LUO_Fanxing.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2020/LUO_Fanxing.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -80,7 +80,7 @@ member.html 丸いプロフィール画像
 /*----------------Bachelor---------------------*/
 
 .bachelor10-image {
-    background-image: url("../image/profile_img/takaaki_abe.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/takaaki_abe.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -88,7 +88,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor11-image {
-    background-image: url("../image/profile_img/yoshiharu_iwasaki.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/yoshiharu_iwasaki.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -96,7 +96,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor12-image {
-    background-image: url("../image/profile_img/okamoto_koshiro.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/okamoto_koshiro.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -104,7 +104,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor13-image {
-    background-image: url("../image/profile_img/rihoko_odaka.JPG");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/rihoko_odaka.JPG");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -112,7 +112,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor14-image {
-    background-image: url("../image/profile_img/Yuri_Kawasaki.JPG");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/Yuri_Kawasaki.JPG");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -120,7 +120,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor15-image {
-    background-image: url("../image/profile_img/nakatsuka.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/nakatsuka.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -128,7 +128,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor16-image {
-    background-image: url("../image/profile_img/Akari.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/Akari.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -136,7 +136,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor17-image {
-    background-image: url("../image/profile_img/yoshinori_hayashi.JPG");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/yoshinori_hayashi.JPG");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -144,7 +144,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor18-image {
-    background-image: url("../image/profile_img/MA_Yufei.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/MA_Yufei.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -152,7 +152,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor19-image {
-    background-image: url("../image/profile_img/Miki_Yukimi.JPG");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/Miki_Yukimi.JPG");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -160,7 +160,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor20-image {
-    background-image: url("../image/profile_img/hiroki_yoshioka.jpg");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/hiroki_yoshioka.jpg");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
@@ -168,7 +168,7 @@ member.html 丸いプロフィール画像
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
 .bachelor21-image {
-    background-image: url("../image/profile_img/YU_JINHONG.png");  /* 表示する画像 */
+    background-image: url("../image/profile_img/2019/YU_JINHONG.png");  /* 表示する画像 */
     width:  150px;       /* ※縦横を同値に */
     height: 150px;       /* ※縦横を同値に */
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
