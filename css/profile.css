@@ -175,4 +175,100 @@ member.html 丸いプロフィール画像
     background-position: center;  /* 横長画像の左上を基準に表示 */
     display: inline-block;          /* 複数の画像を横に並べたい場合 */
 }
+.bachelor22-image {
+    background-image: url("../image/profile_img/2020/Tsukushi.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor23-image {
+    background-image: url("../image/profile_img/2020/Koshiro.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor24-image {
+    background-image: url("../image/profile_img/2020/okamoto_Masaki.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor25-image {
+    background-image: url("../image/profile_img/2020/Eichi.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor26-image {
+    background-image: url("../image/profile_img/2020/Yuya.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor27-image {
+    background-image: url("../image/profile_img/2020/Chihiro.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor28-image {
+    background-image: url("../image/profile_img/2020/Yuri.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor29-image {
+    background-image: url("../image/profile_img/2020/Hina.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor30-image {
+    background-image: url("../image/profile_img/2020/Shouhei.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor31-image {
+    background-image: url("../image/profile_img/2020/Shotaro.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor32-image {
+    background-image: url("../image/profile_img/2020/hiroki_Shoma.jpg");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
+.bachelor33-image {
+    background-image: url("../image/profile_img/2020/Seki.JPG");  /* 表示する画像 */
+    width:  150px;       /* ※縦横を同値に */
+    height: 150px;       /* ※縦横を同値に */
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    background-position: center;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;          /* 複数の画像を横に並べたい場合 */
+}
 /*-----------------------------------------*/
